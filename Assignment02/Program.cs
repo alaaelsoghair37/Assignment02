@@ -34,6 +34,20 @@
             //Console.WriteLine($"The Substringword is ({SubstringWord})");
 
             #endregion
+
+            #region Question 5
+            //int x, y;
+            //x = 5;
+            //y = 10;
+            //Console.WriteLine($"Before Assigning Assigning Value of X is {x} and Value of Y is {y}");
+            //x = y;
+            //Console.WriteLine($"After Assigning Value of X is {x} and Value of Y is {y}");
+            //x = 2;
+            //Console.WriteLine($"After Modifying X The new Value of X is {x} and Value of Y is {y}");
+            /* After Modifying X, the value of Y doesn't change because they are value type so when we assign one to another 
+             * it takes an instance of the other value unlike reference type 
+            */
+            #endregion
         }
     }
 }
