@@ -48,6 +48,19 @@
              * it takes an instance of the other value unlike reference type 
             */
             #endregion
+
+            #region Question 6
+
+            //int[] arr1 = { 5, 10, 15 };
+            //int[] arr2 = { 1, 2, 3 };
+            //arr1 = arr2;
+            //arr2[2] = 50;
+
+            //Console.WriteLine(arr1[2]);
+
+            //The value of arr1[2] will change as arr2[2] because they are reference type so they point to the same address
+
+            #endregion
         }
     }
 }
