@@ -26,6 +26,14 @@
             //Console.WriteLine($"The Sum of a and b is {c}");
             //the operation is done without any exception.
             #endregion
+
+            #region Question 4
+
+            //string word = "AlaaElSoghair";
+            //string SubstringWord = word.Substring(4,9);
+            //Console.WriteLine($"The Substringword is ({SubstringWord})");
+
+            #endregion
         }
     }
 }
