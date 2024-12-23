@@ -61,6 +61,13 @@
             //The value of arr1[2] will change as arr2[2] because they are reference type so they point to the same address
 
             #endregion
+
+            #region Question 7
+            //string fname = "Alaa";
+            //string lname = "Elsoghair";
+            //string fullName = fname + lname;
+            //Console.WriteLine(fullName);
+            #endregion
         }
     }
 }
