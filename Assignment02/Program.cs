@@ -17,6 +17,15 @@
             //Console.WriteLine(word02);
             // will throw exception because we can't convert string to integer 
             #endregion
+
+            #region Question 3
+            //float a, b,c;
+            //a = 0.5f;
+            //b = 1.2f;
+            //c = a + b;
+            //Console.WriteLine($"The Sum of a and b is {c}");
+            //the operation is done without any exception.
+            #endregion
         }
     }
 }
